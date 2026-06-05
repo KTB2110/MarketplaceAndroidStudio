@@ -6,7 +6,24 @@ A full-stack Android marketplace app where buyers can browse products by categor
 
 ## Screenshots
 
-> _Add screenshots here once running on emulator_
+Login Page
+<img width="206" height="436" alt="Screenshot 2026-06-05 at 12 39 57 PM" src="https://github.com/user-attachments/assets/45db7dbd-b04e-4d55-956e-68eec326e288" />
+
+Seller Side App
+<img width="201" height="437" alt="Screenshot 2026-06-05 at 12 42 51 PM" src="https://github.com/user-attachments/assets/11b1cd15-73f6-40cb-9e6f-b49e13bc1f72" />
+<img width="201" height="439" alt="Screenshot 2026-06-05 at 12 41 57 PM" src="https://github.com/user-attachments/assets/e49e5a4c-430c-4805-bb4e-babeb166a7df" />
+<img width="201" height="437" alt="Screenshot 2026-06-05 at 12 40 58 PM" src="https://github.com/user-attachments/assets/83a1575c-d37f-48ab-ae15-52243f80a813" />
+<img width="198" height="441" alt="Screenshot 2026-06-05 at 12 40 12 PM" src="https://github.com/user-attachments/assets/e0d23287-601c-4a71-84ac-46ad4535657b" />
+
+Buyer Side App
+<img width="205" height="439" alt="Screenshot 2026-06-05 at 12 37 51 PM" src="https://github.com/user-attachments/assets/5d2914ab-6738-47b1-8f23-3dc2fc738b2c" />
+<img width="203" height="435" alt="Screenshot 2026-06-05 at 12 38 05 PM" src="https://github.com/user-attachments/assets/c5c9b2fa-8fa3-482c-8f9b-b24cff016e36" />
+<img width="202" height="437" alt="Screenshot 2026-06-05 at 12 39 16 PM" src="https://github.com/user-attachments/assets/4beb653d-6132-450b-a7c6-89867055f456" />
+<img width="206" height="441" alt="Screenshot 2026-06-05 at 12 39 27 PM" src="https://github.com/user-attachments/assets/9435cbac-67af-444f-9717-9dae3ced1ee3" />
+
+
+
+
 
 ---
 
